@@ -1,0 +1,16 @@
+{
+    "items": [
+        {
+            "title": "boat",
+            "description": "nice boat",
+            "category": "vehicle",
+            "location": "oulu",
+            "image": "https://www.bikeinn.com/f/13646/136466095/msc-fat-bike-booty-r-26.jpg",
+            "price": 55.55,
+            "delivery": "shipping",
+            "seller": "minä",
+            "phone": "12331112311"
+        }
+
+    ]
+}
